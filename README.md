@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ru43
-- 👀 I’m interested in Web Development, Machine Learning, Data Science
+- 👀 I’m interested in Software Development, Machine Learning, Data Science
 - 🌱 I’m currently learning React 
 - 📫 How to reach me https://www.linkedin.com/in/rupesh43/
 
